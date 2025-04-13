@@ -1,2 +1,2 @@
 # mihomo-icons
-Mihomo 彩色图标库
+Mihomo 自用彩色图标库
